@@ -1,0 +1,40 @@
+.note8 {
+    margin-top: 50px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 195, 195);
+    font-weight: 100;
+    border-radius: 15px 5px 15px 5px;
+    font-size: 13px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .note8 a {
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 195, 195);
+    font-weight: 100;
+    border-radius: 15px 5px 15px 5px;
+    font-size: 13px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0); /* Set tap highlight color to transparent */
+    user-select: none; /* Disable text selection */
+  }
+  
+  .note8 a:hover {
+    color: rgb(255, 255, 255); /* Change to white on hover */
+    cursor: pointer;
+  }
+  
+  .footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(34, 34, 34);
+    width: 200px;
+  }
+  
